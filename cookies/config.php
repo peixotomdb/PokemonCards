@@ -10,8 +10,8 @@
 
 
 	//db config values	
-	$host = "localhost";
-	$username = "root";
-	$password = "root";
-	$dbName = "daw";
+	$host = "****";
+	$username = "****";
+	$password = "****";
+	$dbName = "****";
 ?>
